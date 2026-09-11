@@ -1,2 +1,3 @@
 # demo_git
-About project got commands
+About project git commands
+Adding changes
